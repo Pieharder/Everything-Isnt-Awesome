@@ -1,12 +1,12 @@
-# _To Do List_
+# _Anagram_
 
-#### _A C# console to do list application with basic functionality to record Items., March 2, 2020_
+#### _A C# console appliucation to create anagrams., March 2, 2020_
 
-#### By _**Benjamin Thom**_
+#### By _**Benjamin Thom & Geoff Goetz**_
 
 ## Description
 
-A to do list a user can utilize to manage and track tasks, items, etc.
+A user can input a single word and a list of other words that may be anagrams. After submitting the form, the user should be told which of the list of words were anagrams
 
 ## Preview
 ![Landing Page Preview](img/image-file.png)
@@ -14,7 +14,7 @@ A to do list a user can utilize to manage and track tasks, items, etc.
 ## Project Specifications
 
 | Behavior | Input | Output |
-|---|:---:|:---:|
+|:---:|:---:|:---:|
 ||||
 ||||
 ||||
@@ -61,9 +61,10 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 
 * C#
 * .Net Core
+* MSTest
 
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2020 **_Benjamin Thom_**
+Copyright (c) 2020 **_Benjamin Thom & Geoff Goetz_**
