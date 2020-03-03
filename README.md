@@ -15,9 +15,10 @@ A user can input a single word and a list of other words that may be anagrams. A
 
 | Behavior | Input | Output |
 |:---:|:---:|:---:|
-||||
-||||
-||||
+|A user should be able to input a single word|"word"|word|
+|A user should be able to input a list of words|"word1, word2, word3..."|word1, word2, word3, ...|
+|A user should be told which of the list of words are anagrams|||
+|A user should be able to |NA|word1 is an anagram!|
 ||||
 
 ## Setup/Installation Requirements
